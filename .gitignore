@@ -1,0 +1,21 @@
+# Windows / macOS 系统垃圾文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 编辑器/IDE
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Node
+node_modules/
+
+# Java
+target/
+*.class
